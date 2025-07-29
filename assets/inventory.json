@@ -1,0 +1,35 @@
+[
+    {
+        "id": "prius-2011",
+        "category": "Reliable Sedan",
+        "title": "Toyota Prius 2011",
+        "image": "assets/prius-2011.jpg",
+        "images": [
+          "assets/prius-2011-1.jpg",
+          "assets/prius-2011-2.jpg",
+          "assets/prius-2011-3.jpg"
+        ],
+        "mileage": "240,000 miles",
+        "price": "$7,700",
+        "description": "Excellent fuel economy, Bluetooth, backup camera.",
+        "status": "Clean Title",
+        "facebookPost": "https://www.facebook.com/marketplace/item/24938362302420882/?ref=search&referral_code=null&referral_story_type=post"
+      },
+      {
+        "id": "Jeep 2024",
+        "category": "Family SUV",
+        "title": "Jeep Compass Latitude 2024",
+        "image": "assets/jeep-2024.jpg",
+        "images": [
+          "assets/jeep-2024-1.jpg",
+          "assets/jeep-2024-2.jpg",
+          "assets/jeep-2024-3.jpg"
+        ],
+        "mileage": "19,427 miles",
+        "price": "$23,500",
+        "description": "Looks and run like new.",
+        "status": "Clean Title",
+        "facebookPost": "https://www.facebook.com/marketplace/item/1443035310365826/?mibextid=6ojiHh"
+      }
+  ]
+  
